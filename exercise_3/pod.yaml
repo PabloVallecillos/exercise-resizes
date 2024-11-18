@@ -1,0 +1,13 @@
+apiVersion: apps/v2
+kind: pod
+metadata:
+  labels:
+    run: []
+name: nginx
+spec:
+  containers:
+    args: sh -c echo hello
+    image: nginx:12.1.9-alpha2
+    resources: {}
+    name: nginx
+    restartPolicy: Never
