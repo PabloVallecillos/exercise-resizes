@@ -69,3 +69,5 @@ instance/
 # Sphinx documentation
 
 venv/
+
+.idea
