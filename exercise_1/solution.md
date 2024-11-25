@@ -18,7 +18,7 @@
 
 > What specific tools and technologies will you employ?
 
-- Git with Github like control version system.
+- Git with Github like version control system.
 - Astro like frontend framework.
 - Vercel like cloud infrastructure.
 - Dinahosting like domain provider.
