@@ -71,3 +71,11 @@ instance/
 venv/
 
 .idea
+
+exercise_6/assets/2024-12-01 09-57-13.mp4
+exercise_6/assets/2024-12-01 10-06-13.mp4
+exercise_6/environments/dev/.terraform.lock.hcl
+exercise_6/environments/dev/.terraform/
+exercise_6/environments/dev/terraform.tfstate
+exercise_6/environments/dev/terraform.tfstate.backup
+exercise_6/opentofu.pem
